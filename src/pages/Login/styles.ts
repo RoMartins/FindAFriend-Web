@@ -3,8 +3,7 @@ import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
   body {
-    background: #ffffff;
-    color: black;
+    background:  #FFF;;
   }
 `;
 
@@ -96,7 +95,7 @@ div {
 
   input {
         width: 30.5rem;
-    height: 4rem;
+    height: 3rem;
     border-radius: 0.625rem;
     border: 1px solid var(--back-lines-in-white, #D3E2E5);
     background: #F5F8FA;
