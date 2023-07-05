@@ -1,5 +1,6 @@
 import { Home } from './components/Home/Home';
 import { Login } from './pages/Login';
+import { PetDetails } from './pages/PetDetails';
 import { PestList } from './pages/PetsList';
 import { RegisterForm } from './pages/RegisterForm';
 import { GlobalStyles } from './styles/GlobalStyles';
@@ -13,7 +14,7 @@ export function App() {
       <Router>
 
         <GlobalStyles />
-        <RegisterForm />
+        <PetDetails />
       </Router>
     </>
   );

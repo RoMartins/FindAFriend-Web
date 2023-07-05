@@ -49,7 +49,7 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background: #E44449;
+    background: #FDECED;
     color: #FFFFFF;
   }
 
